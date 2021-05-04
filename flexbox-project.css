@@ -12,11 +12,17 @@ body {
   line-height: 20px;
   padding: 4px;
   color: white;
+  display:flex;
+  justify-content: space-between;
 }
 
+#alerts{
+  background-color: #cf513d;
+}
 
-
-
+@media screen and (max-width:730px){
+  
+}
 
 
 
